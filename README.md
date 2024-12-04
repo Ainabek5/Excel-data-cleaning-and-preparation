@@ -1,7 +1,7 @@
 # Excel-data-cleaning-and-preparation
 
 ## Description
-The project is showing sales data in a dirty format, requiring a clean up in order to perform some analysis on it. It is assumed that the company performs an analysis each month with new data, therefore, formulas are used to clean the data, so that the workbook can be easily updated each month with new records from the database. 
+The project shows sales data in a disorganized format, requiring cleanup in order to perform analysis. It is assumed that the company performs analysis each month with new data. Therefore, formulas are used to clean the data so that the workbook can be easily updated each month with new records from the database. 
 
 ## Key Features
 * Fix dates with the help of functions
